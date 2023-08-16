@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+  .footsection {
+    position: absolute;
+    bottom: -100% !important;
+  }
+}

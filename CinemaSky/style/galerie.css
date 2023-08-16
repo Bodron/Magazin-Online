@@ -1,0 +1,10 @@
+/* .sectionup {
+  position: absolute;
+  top: 20%;
+} */
+.scalep {
+  transition: all 0.7s ease-in-out;
+}
+.scalep:hover {
+  transform: scale(2);
+}
